@@ -1,0 +1,10 @@
+{
+    "interval": 5000,
+    "database": {
+        "address": "mongodb://localhost",
+        "port": 27017,
+        "name": "lightwatch",
+        "user": "admin",
+        "password": "#admin"
+    }
+}

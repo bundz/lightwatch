@@ -1,0 +1,30 @@
+{
+  "name": "lightwatch",
+  "version": "1.0.0",
+  "description": "Opensource Data Monitor",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bundz/lightwatch.git"
+  },
+  "keywords": [
+    "data-monitor"
+  ],
+  "author": "Vitor Alano de Ataides",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bundz/lightwatch/issues"
+  },
+  "homepage": "https://github.com/bundz/lightwatch#readme",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
+}
